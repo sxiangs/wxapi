@@ -1,2 +1,2 @@
 # cwxapi
-wechat api
+common api
