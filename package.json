@@ -1,0 +1,12 @@
+{
+  "name": "wxapi",
+  "version": "1.0.0",
+  "description": "微信基本操作API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["wechat","api"],
+  "author": "silentXiang",
+  "license": "MIT"
+}
